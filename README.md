@@ -88,14 +88,14 @@
         <img src="https://images.uncyc.org/commons/thumb/8/8a/North_Korea.png/300px-North_Korea.png" alt="Person 2 Picture">
         <section class="introduction">
             <h3>Introduction</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac venenatis lorem.</p>
+            <p>Olen ilus mees kes sündis Võrus aga elan Tallinnas. Olen oma elu pannud selle peale et Eesti saaks tugevamaks riigist.</p>
         </section>
         <section class="hobbies">
-            <h3>Hobbies</h3>
+            <h3>hobid</h3>
             <ul>
-                <li>Lorem ipsum dolor sit amet</li>
-                <li>Consectetur adipiscing elit</li>
-                <li>Curabitur ac venenatis lorem</li>
+                <li>Arvutide mängude mängimine</li>
+                <li>naljade kirjutamine</li>
+                <li>helitehnika</li>
             </ul>
         </section>
     </section>
