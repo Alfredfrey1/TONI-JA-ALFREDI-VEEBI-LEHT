@@ -68,18 +68,18 @@
         <h1>About Us</h1>
     </header>
     <section class="person" id="person1">
-        <h2>Person 1</h2>
-        <img src="path-to-person1-picture.jpg" alt="Person 1 Picture">
+        <h2>Toni Hasa</h2>
+        <img src="file:///C:/Users/SwagD/Downloads/IMG_1714.JPG" alt="Person 1 Picture">
         <section class="introduction">
-            <h3>Introduction</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac venenatis lorem.</p>
+            <h3>Tutvustus</h3>
+            <p>Ma sündisin 7. märtsil aastal 2007 Eestis. Ma elasin Viimsis umbes oma 4. eluaastani. Siis kolisin ma Soome, Helisingisse. Ma käisin 5 aastat Soomes koolis ja kolisin siis tagasi Eestisse. Eestis käisin Rocca al Mare koolis 9. klassini ja siis läksin PERG’i.</p>
         </section>
         <section class="hobbies">
-            <h3>Hobbies</h3>
+            <h3>Hobid</h3>
             <ul>
-                <li>Lorem ipsum dolor sit amet</li>
-                <li>Consectetur adipiscing elit</li>
-                <li>Curabitur ac venenatis lorem</li>
+                <li>Arvutimängude mängimine</li>
+                <li>Tennis</li>
+                <li>Küberkiusamine</li>
             </ul>
         </section>
     </section>
