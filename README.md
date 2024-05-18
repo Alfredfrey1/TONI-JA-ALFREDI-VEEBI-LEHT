@@ -53,6 +53,14 @@
         .person h2 {
             margin-top: 0;
         }
+
+        .person img {
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 50%;
+            margin-bottom: 1rem;
+        }
     </style>
 </head>
 <body>
@@ -61,6 +69,7 @@
     </header>
     <section class="person" id="person1">
         <h2>Person 1</h2>
+        <img src="path-to-person1-picture.jpg" alt="Person 1 Picture">
         <section class="introduction">
             <h3>Introduction</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac venenatis lorem.</p>
@@ -76,6 +85,7 @@
     </section>
     <section class="person" id="person2">
         <h2>Person 2</h2>
+        <img src="path-to-person2-picture.jpg" alt="Person 2 Picture">
         <section class="introduction">
             <h3>Introduction</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac venenatis lorem.</p>
