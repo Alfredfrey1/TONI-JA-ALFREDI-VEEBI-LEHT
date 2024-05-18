@@ -79,36 +79,4 @@
     </header>
     <section class="introduction">
         <h2>Introduction</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac venenatis lorem.</p>
-    </section>
-    <section class="hobbies">
-        <h2>Hobbies</h2>
-        <ul>
-            <li>Lorem ipsum dolor sit amet</li>
-            <li>Consectetur adipiscing elit</li>
-            <li>Curabitur ac venenatis lorem</li>
-        </ul>
-    </section>
-    <section class="contact">
-        <h2>Contact</h2>
-        <form id="contactForm">
-            <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required>
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required>
-            <label for="message">Message:</label>
-            <textarea id="message" name="message" required></textarea>
-            <button type="submit">Send</button>
-        </form>
-    </section>
-    <script>
-        document.getElementById('contactForm').addEventListener('submit', function(e) {
-            e.preventDefault();
-            alert('Form submitted!');
-        });
-    </script>
-</body>
-</html>
-
-
-
+        <p>Lorem i
