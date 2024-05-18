@@ -69,7 +69,7 @@
     </header>
     <section class="person" id="person1">
         <h2>Toni Hasa</h2>
-        <img src="file:///C:/Users/SwagD/Downloads/IMG_1714.JPG" alt="Person 1 Picture">
+        <img src="https://ibb.co/ZW5XwSV" alt="Person 1 Picture">
         <section class="introduction">
             <h3>Tutvustus</h3>
             <p>Ma sündisin 7. märtsil aastal 2007 Eestis. Ma elasin Viimsis umbes oma 4. eluaastani. Siis kolisin ma Soome, Helisingisse. Ma käisin 5 aastat Soomes koolis ja kolisin siis tagasi Eestisse. Eestis käisin Rocca al Mare koolis 9. klassini ja siis läksin PERG’i.</p>
