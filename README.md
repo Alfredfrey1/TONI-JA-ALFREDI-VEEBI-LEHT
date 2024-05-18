@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Me</title>
+    <title>About Us</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -27,7 +27,7 @@
             padding: 2rem;
         }
 
-        .introduction, .hobbies, .contact {
+        .introduction, .hobbies {
             border-bottom: 1px solid #ccc;
         }
 
@@ -46,66 +46,48 @@
             padding: .5rem;
         }
 
-        form {
-            display: flex;
-            flex-direction: column;
+        .person {
+            margin-bottom: 2rem;
         }
 
-        form label {
-            margin-top: 1rem;
-        }
-
-        form input, form textarea, form button {
-            padding: .5rem;
-            margin-top: .5rem;
-        }
-
-        form button {
-            background: #333;
-            color: #fff;
-            border: none;
-            cursor: pointer;
-            margin-top: 1rem;
-        }
-
-        form button:hover {
-            background: #555;
+        .person h2 {
+            margin-top: 0;
         }
     </style>
 </head>
 <body>
     <header>
-        <h1>About Me</h1>
+        <h1>About Us</h1>
     </header>
-    <section class="introduction">
-        <h2>Introduction</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac venenatis lorem.</p>
+    <section class="person" id="person1">
+        <h2>Person 1</h2>
+        <section class="introduction">
+            <h3>Introduction</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac venenatis lorem.</p>
+        </section>
+        <section class="hobbies">
+            <h3>Hobbies</h3>
+            <ul>
+                <li>Lorem ipsum dolor sit amet</li>
+                <li>Consectetur adipiscing elit</li>
+                <li>Curabitur ac venenatis lorem</li>
+            </ul>
+        </section>
     </section>
-    <section class="hobbies">
-        <h2>Hobbies</h2>
-        <ul>
-            <li>Lorem ipsum dolor sit amet</li>
-            <li>Consectetur adipiscing elit</li>
-            <li>Curabitur ac venenatis lorem</li>
-        </ul>
+    <section class="person" id="person2">
+        <h2>Person 2</h2>
+        <section class="introduction">
+            <h3>Introduction</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac venenatis lorem.</p>
+        </section>
+        <section class="hobbies">
+            <h3>Hobbies</h3>
+            <ul>
+                <li>Lorem ipsum dolor sit amet</li>
+                <li>Consectetur adipiscing elit</li>
+                <li>Curabitur ac venenatis lorem</li>
+            </ul>
+        </section>
     </section>
-    <section class="contact">
-        <h2>Contact</h2>
-        <form id="contactForm">
-            <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required>
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required>
-            <label for="message">Message:</label>
-            <textarea id="message" name="message" required></textarea>
-            <button type="submit">Send</button>
-        </form>
-    </section>
-    <script>
-        document.getElementById('contactForm').addEventListener('submit', function(e) {
-            e.preventDefault();
-            alert('Form submitted!');
-        });
-    </script>
 </body>
 </html>
