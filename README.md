@@ -65,7 +65,7 @@
 </head>
 <body>
     <header>
-        <h1>About Us</h1>
+        <h1>Meie kohta</h1>
     </header>
     <section class="person" id="person1">
         <h2>Toni Hasa</h2>
