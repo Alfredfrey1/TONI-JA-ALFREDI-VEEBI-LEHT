@@ -85,7 +85,7 @@
     </section>
     <section class="person" id="person2">
         <h2>Person 2</h2>
-        <img src="[path-to-person2-picture.jpg](https://images.uncyc.org/commons/thumb/8/8a/North_Korea.png/300px-North_Korea.png)" alt="Person 2 Picture">
+        <img src="https://images.uncyc.org/commons/thumb/8/8a/North_Korea.png/300px-North_Korea.png" alt="Person 2 Picture">
         <section class="introduction">
             <h3>Introduction</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac venenatis lorem.</p>
