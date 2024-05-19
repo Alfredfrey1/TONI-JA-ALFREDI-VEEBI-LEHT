@@ -78,7 +78,7 @@
             <ul>
                 <li>Arvutimängude mängimine</li>
                 <li>Tennis</li>
-                <li>Küberkiusamine</li>
+                <li>Biljard</li>
             </ul>
         </section>
     </section>
