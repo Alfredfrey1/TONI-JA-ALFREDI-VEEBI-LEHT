@@ -28,7 +28,7 @@
         }
 
         .introduction, .hobbies {
-            border-bottom: 1px solid #ccc;
+            border-bottom: 1px solid #FFF499;
         }
 
         h2 {
