@@ -1,3 +1,6 @@
+To make the background light blue, you need to update the CSS for the `body` element to include a `background-color` property with the desired color value. Here is the updated HTML with the light blue background:
+
+```html
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,6 +12,7 @@
             line-height: 1.6;
             margin: 0;
             padding: 0;
+            background-color: #ADD8E6; /* Light blue background */
         }
 
         header {
@@ -100,3 +104,4 @@
     </section>
 </body>
 </html>
+```
