@@ -96,7 +96,7 @@
             <h3>Hobid</h3>
             <ul>
                 <li>Arvutide mängude mängimine</li>
-                <li>naljade kirjutamine</li>
+                <li>Naljade kirjutamine</li>
                 <li>Helitehnika</li>
             </ul>
         </section>
