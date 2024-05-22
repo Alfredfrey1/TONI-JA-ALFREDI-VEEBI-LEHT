@@ -90,7 +90,7 @@
         <img src="https://i.imghippo.com/files/jol5H1716403370.jpg" alt="Person 2 Picture">
         <section class="introduction">
             <h3>Tutvustus</h3>
-            <p>Olen ilus mees, kes sündis Võrus, aga elan Tallinnas. Olen oma elu pannud selle peale, et Eesti saaks tugevamaks riigist.</p>
+            <p>Olen ilus mees, kes sündis Võrus, aga elan Tallinnas. Olen oma elu pannud selle peale, et Eesti saaks tugevamaks riigiks.</p>
         </section>
         <section class="hobbies">
             <h3>Hobid</h3>
