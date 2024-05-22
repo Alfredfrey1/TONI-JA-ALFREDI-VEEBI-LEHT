@@ -85,7 +85,7 @@
     </section>
     <section class="person" id="person2">
         <h2>Person 2</h2>
-        <img src="https://ibb.co/9nJF1Hm" alt="Person 2 Picture">
+        <img src="https://i.imghippo.com/files/jol5H1716403370.jpg" alt="Person 2 Picture">
         <section class="introduction">
             <h3>Introduction</h3>
             <p>Olen ilus mees kes sündis Võrus aga elan Tallinnas. Olen oma elu pannud selle peale et Eesti saaks tugevamaks riigist.</p>
