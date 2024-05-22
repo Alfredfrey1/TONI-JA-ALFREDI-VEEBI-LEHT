@@ -30,7 +30,7 @@
         }
 
         .introduction, .hobbies {
-            border-bottom: 1px solid #ccc;
+            border-bottom: 1px solid #fff
         }
 
         h2 {
@@ -43,7 +43,7 @@
         }
 
         ul li {
-            background: #f4f4f4;
+            background: #fff;
             margin: .5rem 0;
             padding: .5rem;
         }
@@ -67,7 +67,7 @@
 </head>
 <body>
     <header>
-        <h1>Meie kohta</h1>
+        <h1>MEIE KOHTA</h1>
     </header>
     <section class="person" id="person1">
         <h2>Toni Hasa</h2>
