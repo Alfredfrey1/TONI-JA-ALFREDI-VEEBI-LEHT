@@ -3,13 +3,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Us</title>
+    <!-- Include the Cabin font from Google Fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cabin:wght@700&display=swap">
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Cabin', sans-serif;
             line-height: 1.6;
             margin: 0;
             padding: 0;
-            background-color: #407BB2; /* Light blue background */
+            background-color: #ADD8E6; /* Light blue background */
         }
 
         header {
@@ -28,7 +30,7 @@
         }
 
         .introduction, .hobbies {
-            border-bottom: 1px solid #FFF499;
+            border-bottom: 1px solid #ccc;
         }
 
         h2 {
