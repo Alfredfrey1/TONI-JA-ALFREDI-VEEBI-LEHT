@@ -11,7 +11,7 @@
             line-height: 1.6;
             margin: 0;
             padding: 0;
-            background-color: #ADD8E6; /* Light blue background */
+            background-color: #ADD8E6; 
         }
 
         header {
@@ -90,7 +90,7 @@
         <img src="https://i.imghippo.com/files/jol5H1716403370.jpg" alt="Person 2 Picture">
         <section class="introduction">
             <h3>Tutvustus</h3>
-            <p>Olen ilus mees, kes sündis Võrus, aga elan Tallinnas. Olen oma elu pannud selle peale, et Eesti saaks tugevamaks riigiks.</p>
+            <p>Olen ilus mees, kes sündis Võrus, aga elan Tallinnas. Olen oma elu pannud selle peale, et Eesti saaks tugevamaks riigiks. Olen vabal ajal monteerjia ja huvitub kuidas majanuds toimib. Olen uhke PERGi õpilane.</p>
         </section>
         <section class="hobbies">
             <h3>Hobid</h3>
