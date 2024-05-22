@@ -86,18 +86,18 @@
         </section>
     </section>
     <section class="person" id="person2">
-        <h2>Person 2</h2>
+        <h2>Alfred Frey</h2>
         <img src="https://i.imghippo.com/files/jol5H1716403370.jpg" alt="Person 2 Picture">
         <section class="introduction">
-            <h3>Introduction</h3>
-            <p>Olen ilus mees kes sündis Võrus aga elan Tallinnas. Olen oma elu pannud selle peale et Eesti saaks tugevamaks riigist.</p>
+            <h3>Tutvustus</h3>
+            <p>Olen ilus mees, kes sündis Võrus, aga elan Tallinnas. Olen oma elu pannud selle peale, et Eesti saaks tugevamaks riigist.</p>
         </section>
         <section class="hobbies">
-            <h3>hobid</h3>
+            <h3>Hobid</h3>
             <ul>
                 <li>Arvutide mängude mängimine</li>
                 <li>naljade kirjutamine</li>
-                <li>helitehnika</li>
+                <li>Helitehnika</li>
             </ul>
         </section>
     </section>
