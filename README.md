@@ -9,7 +9,7 @@
             line-height: 1.6;
             margin: 0;
             padding: 0;
-            background-color: #ADD8E6; /* Light blue background */
+            background-color: #407BB2; /* Light blue background */
         }
 
         header {
