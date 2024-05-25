@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Us</title>
-    <!-- Include the Cabin font from Google Fonts -->
+  
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cabin:wght@700&display=swap">
     <style>
         body {
